@@ -1,49 +1,39 @@
 # Vivian's User Page
 
-Hi all :) My name is Vivian Yu (they/she). I am a third year **Math-CS** major who enjoys studying theoretical CS and discrete math.
+Hi all :) My name is Vivian Yu (they/she). I am a third year **Math-CS** major who enjoys studying theoretical CS and discrete math. I am also a hobbyist illustrator and I am interested in 2D and 3D computer graphics.
 
-## Quote
+> Talent is something you make bloom, instinct is something you polish. -Oikawa Tooru
 
-Here is a quote I like:
 
-> Talent is something you make bloom, instinct is something you polish.
-
--Oikawa Tooru
-
-## Code block quote
-
-Here is an interesting math theorem:
+## Chicken McNugget Theorem
 
 ```
-Chicken McNugget Theorem: If you go to McDonalds, they used to sell nuggets in packs of 9 and packs of 20. The largest number of nuggets you cannot buy is 151. In general, for any two relatively prime positive integers m and n, the greatest integer that cannot be written as a sum am + bn is equal to mn - m - n.
+If you go to McDonalds, they used to sell nuggets in packs of 9 and packs of 20. The largest number of nuggets you cannot buy is 151. In general, for any two relatively prime positive integers m and n, the greatest integer that cannot be written as a sum am + bn is equal to mn - m - n.
 ```
 
-## Link
-[click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## My socials
+[Instagram](https://www.instagram.com/vivian.docx/)
 
-## Section Link
+[ArtStation](https://www.artstation.com/kybcr)
+
+## a recent artwork
+[click](/xiaogongzi.jpg)
+
+## Research interests
+
+1. Graph theory
+2. Algorithm design
+3. Abstract algebra
+
+## Experience
+
+- Wushu Club @ UC San Diego - External Affairs Chair
+- Mathematics Department - Instructional Assistant
+- Marine Invertebrate Collection at Scripps Institution of Oceanography - Laboratory Assistant
+
+## Goals for 2025
+- [x] Find more time to draw
+- [ ] Prepare for 2025 Collegiate Wushu Tournament 
+- [ ] Get an internship :(
 
 [Return to top](#vivians-user-page)
-
-## Relative Link
-[Readme](/README.md)
-
-## Ordered list and Unordered list
-
-1. 一
-2. 二
-3. 三
-4. 四
-5. 五
-
-- a
-- b
-- c
-- d
-- e
-
-## Task List
-
-- [x] task 1
-- [ ] task 2
-- [ ] task 3
